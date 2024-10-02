@@ -1,2 +1,2 @@
 # Portfolio
-Built using HTML, SCSS and vanilla Javascript. Deployed at [this page]([this page](https://akilkarthikeyan.github.io/portfolio)).
+Built using HTML, SCSS and vanilla Javascript. View deployment at https://akilkarthikeyan.github.io/portfolio
